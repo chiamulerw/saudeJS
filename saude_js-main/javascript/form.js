@@ -23,7 +23,7 @@ var tabela = document.querySelector("#tabela-pacientes");
 
     form.reset();
     var mensagensErro = document.querySelector("#mensagens-erro");
-    ul.innerHTML = "";
+    mensagensErro.innerHTML = "";
 });
 
 function exibeMensagemErro(erros){
