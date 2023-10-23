@@ -1,4 +1,4 @@
-## Projeto "Aparecida Nutrição"
+<h1 align="center">Projeto "Aparecida Nutrição"</h1>
 
 <p align="center">Projeto proposto no curso "JavaScript: programando na linguagem da web" da plataforma Alura.</p>
 
